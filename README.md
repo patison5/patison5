@@ -8,7 +8,7 @@ Hi, I'm Fedor Penin!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=IOS+Developer+'MAI'+Student;Swift+UIKit+Algorithms;Freelancer;Studying+in+Yandex;Always%20learning%20new%20things&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=IOS+Developer;'MAI'+Student;Studying+in+Yandex;Swift+UIKit+Algorithms;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
     </a>
 </p>
 
