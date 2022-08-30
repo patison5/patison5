@@ -28,7 +28,7 @@ I-am-patison5@github
 🔭 I have a strong interest in IOS Development
 💖 Very open and ready to contact person. 
 💻 Not smoking, but ready to start after every complie... =)
-🎵 Love all sorts of music
+🎵 Love all sorts of music and drinking beer
 ```
 <hr>
 <!-- <h4  align="center">Programming Languages</h4> -->
