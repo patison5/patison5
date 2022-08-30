@@ -12,8 +12,8 @@ Hi, I'm Fedor Penin!
     </a>
 </p>
 
-<!-- <img align="left" src="https://memepedia.ru/wp-content/uploads/2018/07/pikabu3.jpg" alt="" width="250" /> -->
-<img align="left" src="https://i.pinimg.com/564x/69/dc/3c/69dc3cec93572d301bb75854ae260a07.jpg" alt="" width="270" />
+<img align="left" src="https://memepedia.ru/wp-content/uploads/2018/07/pikabu3.jpg" alt="" width="250" />
+<!-- <img align="left" src="https://i.pinimg.com/564x/69/dc/3c/69dc3cec93572d301bb75854ae260a07.jpg" alt="" width="270" /> -->
 <hr>
 
 ```
