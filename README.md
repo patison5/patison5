@@ -1,7 +1,8 @@
 <h1 align="center">
 Hi, I'm Fedor Penin!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />
+ <img src="https://komarev.com/ghpvc/?username=patison5&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="patison5" />
+ <img src="https://img.shields.io/github/followers/patison5?label=follow&style=social&logoColor=black" align='right' alt="patison5" />
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
