@@ -13,7 +13,10 @@ Hi, I'm Fedor Penin!
 </p>
 
 <!-- <img align="left" src="https://memepedia.ru/wp-content/uploads/2018/07/pikabu3.jpg" alt="" width="250" /> -->
-<img align="left" src="https://i.pinimg.com/564x/69/dc/3c/69dc3cec93572d301bb75854ae260a07.jpg" alt="" width="270" />
+<!--<img align="left" src="https://i.pinimg.com/564x/69/dc/3c/69dc3cec93572d301bb75854ae260a07.jpg" alt="" width="270" />-->
+<img align="left" src="https://psv4.userapi.com/c237331/u170877706/docs/d50/1282fefa2999/keep-working_1.gif?extra=3LTd1gPzLHq0C5DyYJVUZCMqvoobRsExcECm7GPEpBixEqMVF4pcSr33ZjxXdF6WMS3StfZJs_p4iRbX54VcXcpZfcIqI3B69biH1KYPsnsJYrBhk3wHj12-dFir9-JmWlak7I_Kx_3eQnxyh70xm1qx" alt="" width="270" />
+
+
 <hr>
 
 ```
