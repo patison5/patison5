@@ -75,3 +75,20 @@ I-am-patison5@github
       <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
    </a>
 </p>
+
+<hr>
+
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=patison5&show_icons=true&theme=tokyonight&hide_border=false&locale=en" width="450" />
+   <span>&nbsp;</span>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patison5&theme=tokyonight&hide_border=false" width="450"/>
+</p>
+
+
+<!-- [![1](https://github-readme-stats.vercel.app/api?username=patison5&show_icons=true&theme=tokyonight&hide_border=false&locale=en)](https://github.com/patison5) -->
+<!-- [![2](https://github-readme-streak-stats.herokuapp.com/?user=patison5&theme=tokyonight&hide_border=false)](https://github.com/patison5) -->
+
+<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=patison5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/patison5/github-readme-stats) -->
+
+
