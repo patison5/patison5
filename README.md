@@ -24,7 +24,7 @@ I-am-patison5@github
 📝 Getting a Master's degree in applied mathematics
 
 🌟 Main languages: Swift, Python
-🚩 Have experience with languages: JavaScript, Nodejs, PHP, C++, Java, C#, Shell
+🚩 Have experience with: JavaScript, Nodejs, PHP, C++, Java, C#, Shell
 🔭 I have a strong interest in IOS Development
 💖 Very open and ready to contact person. 
 💻 Not smoking, but ready to start after every complie... =)
