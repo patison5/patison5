@@ -37,6 +37,21 @@ I-am-patison5@github
 <hr>
 <!-- <h4  align="center">Programming Languages</h4> -->
 
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=patison5&show_icons=true&theme=tokyonight&hide_border=false&locale=en" width="400" />
+   <span>&nbsp;</span>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patison5&theme=tokyonight&hide_border=false" width="400"/>
+</p>
+
+
+<!-- [![1](https://github-readme-stats.vercel.app/api?username=patison5&show_icons=true&theme=tokyonight&hide_border=false&locale=en)](https://github.com/patison5) -->
+<!-- [![2](https://github-readme-streak-stats.herokuapp.com/?user=patison5&theme=tokyonight&hide_border=false)](https://github.com/patison5) -->
+
+<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=patison5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/patison5/github-readme-stats) -->
+
+<hr>
+
 <p align="center">
    <a href="https://github.com/search?q=user%3APatison5+is%3Arepo+language%3ASwift"> 
 <!--      <img alt="Swift" src="https://img.shields.io/badge/swift-5.1-brightgreen.svg">  -->
@@ -75,20 +90,5 @@ I-am-patison5@github
       <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
    </a>
 </p>
-
-<hr>
-
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=patison5&show_icons=true&theme=tokyonight&hide_border=false&locale=en" width="400" />
-   <span>&nbsp;</span>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patison5&theme=tokyonight&hide_border=false" width="400"/>
-</p>
-
-
-<!-- [![1](https://github-readme-stats.vercel.app/api?username=patison5&show_icons=true&theme=tokyonight&hide_border=false&locale=en)](https://github.com/patison5) -->
-<!-- [![2](https://github-readme-streak-stats.herokuapp.com/?user=patison5&theme=tokyonight&hide_border=false)](https://github.com/patison5) -->
-
-<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=patison5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/patison5/github-readme-stats) -->
 
 
