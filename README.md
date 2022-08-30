@@ -80,9 +80,9 @@ I-am-patison5@github
 
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=patison5&show_icons=true&theme=tokyonight&hide_border=false&locale=en" width="450" />
+   <img src="https://github-readme-stats.vercel.app/api?username=patison5&show_icons=true&theme=tokyonight&hide_border=false&locale=en" width="400" />
    <span>&nbsp;</span>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patison5&theme=tokyonight&hide_border=false" width="450"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patison5&theme=tokyonight&hide_border=false" width="400"/>
 </p>
 
 
