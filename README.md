@@ -92,4 +92,15 @@ I-am-patison5@github
    </a>
 </p>
 
+</br></br>
+<h1 align="center">If you are common to DayZ Community</h1>
+
+* [RF Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2823224662)
+
+* [Mining Farm](https://steamcommunity.com/sharedfiles/filedetails/?id=2887828885&searchtext=rf+mining+farm)
+
+* [Silent Kill](https://steamcommunity.com/sharedfiles/filedetails/?id=2806583920)
+
+* [Killfeed](https://steamcommunity.com/sharedfiles/filedetails/?id=2793666778)
+
 
