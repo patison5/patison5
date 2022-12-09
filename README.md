@@ -114,11 +114,15 @@ I-am-patison5@github
   </a>
  
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2806583920">
-    <img alt="Silent Kill" src="https://img.shields.io/badge/Silen Kill%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+    <img alt="Silent Kill" src="https://img.shields.io/badge/Silent Kill%20-%2314354C.svg?logo=RFFramework&logoColor=white">
   </a>
  
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2793666778">
-    <img alt="Silent Kill" src="https://img.shields.io/badge/Killfeed%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+    <img alt="Killfeed" src="https://img.shields.io/badge/Killfeed%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2743560379">
+    <img alt="Deathmatch framework" src="https://img.shields.io/badge/Deathmatch%20-%2314354C.svg?logo=RFFramework&logoColor=white">
   </a>
 </p>
 
