@@ -95,12 +95,31 @@ I-am-patison5@github
 </br></br>
 <h1 align="center">If you are common to DayZ Community</h1>
 
-* [RF Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2823224662)
+<!-- ![Mining Farm](https://steamuserimages-a.akamaihd.net/ugc/1928132024188657386/C23552081836F0C3F497CEF1FC9CBA555C70DFB1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false) -->
 
-* [Mining Farm](https://steamcommunity.com/sharedfiles/filedetails/?id=2887828885&searchtext=rf+mining+farm)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
-* [Silent Kill](https://steamcommunity.com/sharedfiles/filedetails/?id=2806583920)
+<!-- [![](https://markdown-videos.deta/youtube/ogsXd8cNQFc)](https://youtu.be/ogsXd8cNQFc) -->
+[![Mining Farm](https://steamuserimages-a.akamaihd.net/ugc/1928132024188657386/C23552081836F0C3F497CEF1FC9CBA555C70DFB1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false)](https://youtu.be/ogsXd8cNQFc)
 
-* [Killfeed](https://steamcommunity.com/sharedfiles/filedetails/?id=2793666778)
+<h3 align="center">My other mods</h3>
+
+<p align="center">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2823224662">
+    <img alt="RF Framework" src="https://img.shields.io/badge/RF Framework%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2887828885&searchtext=rf+mining+farm">
+    <img alt="Mining Farm" src="https://img.shields.io/badge/Mining Farm%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2806583920">
+    <img alt="Silent Kill" src="https://img.shields.io/badge/Silen Kill%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2793666778">
+    <img alt="Silent Kill" src="https://img.shields.io/badge/Killfeed%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+</p>
 
 
