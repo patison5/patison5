@@ -126,4 +126,38 @@ I-am-patison5@github
   </a>
 </p>
 
+<h3 align="center">Upcomming mods</h3>
+
+<p align="center">
+  <a href="">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Helicopter Convoy%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Achieve System%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+ <a href="">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Black Trader%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Transport Spawn%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Player Spawn%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+  
+  <a href="">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Party Mod%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="">
+    <img alt="RF Framework" src="https://img.shields.io/badge/New Raid System%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+</p>
+
+
+
 <h4 align="center">Mods are not free, contact me in my <a href="https://discord.gg/Yv5HeqqU3V">Discord</a></h4>
