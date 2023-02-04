@@ -126,4 +126,4 @@ I-am-patison5@github
   </a>
 </p>
 
-
+<h4 align="center">Mods are not free, contact me in my <a href="https://discord.gg/Yv5HeqqU3V">Discord</a></h4>
