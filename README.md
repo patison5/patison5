@@ -32,7 +32,7 @@ Who am I?
 🔭 Yes, look throw the hole stackoverflow and sometimes write code...
 📚 Work the hole night. But what do i do?
 💖 U rly think so? Dude... Being single is my calling. Ofcource i'm writing code!
-🎵 Do u rly think i need a rest? Let me play the piano sometimes or just give me coffee
+🎵 Do u rly think i need a rest? Let me play the piano sometimes or just buy me coffee
 💻 So i have the only one question. WTF don't I still have a normal job? :/
 ```
 <hr>
