@@ -22,18 +22,18 @@ Hi, I'm Fedor Penin!
 <hr>
 
 ```
-I-am-patison5@github
+Who am I?
 -------------------------
 💻 I am a self taught Full Stack Developer and a Swift IOS Developer
-📚 I have a Bachelors in Computer Engineering
-📝 Getting a Master's degree in applied mathematics
 
 🌟 Main languages: Swift, Python
 🚩 Have experience with: JavaScript, Nodejs, PHP, C++, Java, C#, Shell
-🔭 I have a strong interest in IOS Development
-💖 Very open and ready to contact person. 
-💻 Not smoking, but ready to start after every complie... =)
-🎵 Love all sorts of music and drinking beer
+📝 Write code the hole day
+📚 Write code the hole night
+🔭 Looked throw the hole stackoverflow 
+🎵 Do not need the rest. But sometimes play the piano.
+💖 Forever alone. Being single is my calling
+💻 WTF don't I still have a normal job? :/
 ```
 <hr>
 <!-- <h4  align="center">Programming Languages</h4> -->
