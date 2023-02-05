@@ -27,13 +27,13 @@ Who am I?
 💻 I am a self taught Full Stack Developer and a Swift IOS Developer
 
 🌟 Main languages: Swift, Python
-🚩 Have experience with: JavaScript, Nodejs, PHP, C++, Java, C#, Shell
-📝 Write code the hole day
-📚 Write code the hole night
-🔭 Looked throw the hole stackoverflow 
-🎵 Do not need the rest. But sometimes play the piano.
-💖 Forever alone. Being single is my calling
-💻 WTF don't I still have a normal job? :/
+🚩 Have experience with: JavaScript, Nodejs, PHP, C++, Java, C#, Shell, etc...
+📝 Work the hole day. But what do i do?
+🔭 Yes, look throw the hole stackoverflow and sometimes write code...
+📚 Work the hole night. But what do i do?
+💖 U rly think so? Dude... Being single is my calling. Ofcource i'm writing code!
+🎵 Do u rly think i need a rest? Let me play the piano sometimes or just give me coffee
+💻 So i have the only one question. WTF don't I still have a normal job? :/
 ```
 <hr>
 <!-- <h4  align="center">Programming Languages</h4> -->
