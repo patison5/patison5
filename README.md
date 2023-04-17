@@ -24,16 +24,51 @@ Hi, I'm Fedor Penin!
 ```
 Who am I?
 -------------------------
-💻 I am a self taught Full Stack Developer and a Swift IOS Developer
+The funny thing is that I don't know =)
 
-🌟 Main languages: Swift, Python
-🚩 Have experience with: JavaScript, Nodejs, PHP, C++, Java, C#, Shell, etc...
-📝 Work the hole day. But what do i do?
-🔭 Yes, look throw the hole stackoverflow and sometimes write code...
-📚 Work the hole night. But what do i do?
-💖 U rly think so? Dude... Being single is my calling. Ofcource i'm writing code!
-🎵 Do u rly think i need a rest? Let me play the piano sometimes or just buy me coffee
-💻 So i have the only one question. WTF don't I still have a normal job? :/
+I did a lot of things, some of them you can find in repositories, best of them not. 
+Some of them are boring, some of them not. But you know, i'e understood one thing. 
+I'e riched a point when it becames not so much important for me what i have to do. 
+Like if someone ask me to create a web site - i will just say "how much are you 
+ready to pay?". If someone ask me to create a mobile app - i will also say "how 
+much?". If someone  ask me to create some work in 3D Game - i will also ask 
+"how much?". 
+
+I'e tried a lot of things. I'e created web sites on native languages like html,css,js,jq.. 
+i'e tried to use frameworks like React/Redux. I'e created web-servers and rest APIs on 
+python using flask or django, on nodejs using express with mysql/sqlite/postgress. I'e 
+created a lot of different bots on different languages, usually it is nodejs or python. 
+Bots that are still working =). I'e studied math, studied AI systems and tried
+to write some optimization algorithms like stochastic gradient descents, ADAM and etc.
+Ofcourse as an every self-respecting programmer i'e tried to create own language
+compilator (i'e used Java for that purposes). I'e created more than 30 projects in 
+DayZ 3D Game.  Each one is still working without any updates. If you are common with 
+DayZ, you understand why am i so proud of it... =)
+
+I don't really think, that it is a good quality, but i'm a person who can dive until 
+the task won't be finished. For example, when i'e decided that i need a web-site 
+(rfgames.pro), i did it in 4 days... html,css,js,nodejs,sql,mysql,jwt,steam-auth, 
+discord-auth,paypal and etc. 90% of work was done in only 4 days of life while i was just
+moving by car and by plane from one country to enother... 
+
+If you are still here, reading this lines, checking the web-site and getting question like
+"why are there no pages like auth, cart and etc...?". So note, i'm not an idiot to publish so
+important things with out 100% sure it is safe. I don't have any experience in cyber security 
+(yes, this says a person with 1 year of Master degree in cyber security xD) and i'e never 
+worked in any company. So i have an opportuinity not to see something, that's why i'm taking a 
+time to out all the bugs by myself and my friends and fix it before publish... =).
+
+And here you can see my good quality, may be, in somehow.. I prefer to do any work like 
+ten out of ten. And I hate it and i just can't publish an unfinished work... May be that's 
+why all my works in DayZ are made not so fast, but considered the best of the best...? =)
+
+And i forgot to say about IOS. I'e started studying 2.5 years ago. I really like that sphere, 
+and i'e found ton of infomation exact in that sphere... I believe, that swift i know much more
+better then other languages... but "thanks" god it dies in my country... i'e studied in yandex 
+IOS mobile school, and i think i was good... And even if it doesn't give any reasons to hire me, 
+i'e met one person i had to met, that's why i'm not regret about spent time.
+
+So... who am I? =)
 ```
 <hr>
 <!-- <h4  align="center">Programming Languages</h4> -->
@@ -124,21 +159,28 @@ Who am I?
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2743560379">
     <img alt="Deathmatch framework" src="https://img.shields.io/badge/Deathmatch%20-%2314354C.svg?logo=RFFramework&logoColor=white">
   </a>
+ 
+ </br>
+ 
+ <a href="">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Helicopter Convoy%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2828225100">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Black Trader%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
+ 
+ <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2961865215">
+    <img alt="RF Framework" src="https://img.shields.io/badge/Predators%20-%2314354C.svg?logo=RFFramework&logoColor=white">
+  </a>
 </p>
 
 <h3 align="center">Upcomming mods</h3>
 
 <p align="center">
-  <a href="">
-    <img alt="RF Framework" src="https://img.shields.io/badge/Helicopter Convoy%20-%2314354C.svg?logo=RFFramework&logoColor=white">
-  </a>
  
   <a href="">
     <img alt="RF Framework" src="https://img.shields.io/badge/Achieve System%20-%2314354C.svg?logo=RFFramework&logoColor=white">
-  </a>
- 
- <a href="">
-    <img alt="RF Framework" src="https://img.shields.io/badge/Black Trader%20-%2314354C.svg?logo=RFFramework&logoColor=white">
   </a>
  
   <a href="">
@@ -163,3 +205,4 @@ Who am I?
 
 
 <h4 align="center">Mods are not free, contact me in my <a href="https://discord.gg/Yv5HeqqU3V">Discord</a></h4>
+<p align="center">Or visit my <a href="https://rfgames.pro">web site</a></p>
