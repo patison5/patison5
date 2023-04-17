@@ -14,7 +14,7 @@ Hi, I'm Fedor Penin!
 </p>
 
 <!-- <img align="left" src="https://memepedia.ru/wp-content/uploads/2018/07/pikabu3.jpg" alt="" width="250" /> -->
-<img align="left" src="https://i.pinimg.com/564x/69/dc/3c/69dc3cec93572d301bb75854ae260a07.jpg" alt="" width="270" />
+<img align="right" src="https://i.pinimg.com/564x/69/dc/3c/69dc3cec93572d301bb75854ae260a07.jpg" alt="" width="270" />
 
 <!-- <img align="left" src="https://psv4.userapi.com/c237331/u170877706/docs/d50/1282fefa2999/keep-working_1.gif?extra=3LTd1gPzLHq0C5DyYJVUZCMqvoobRsExcECm7GPEpBixEqMVF4pcSr33ZjxXdF6WMS3StfZJs_p4iRbX54VcXcpZfcIqI3B69biH1KYPsnsJYrBhk3wHj12-dFir9-JmWlak7I_Kx_3eQnxyh70xm1qx" alt="" width="200" style="margin:30px 30px; padding-right: 30px" /> -->
 
@@ -63,9 +63,9 @@ ten out of ten. And I hate it and i just can't publish an unfinished work... May
 why all my works in DayZ are made not so fast, but considered the best of the best...? =)
 
 And i forgot to say about IOS. I'e started studying 2.5 years ago. I really like that sphere, 
-and i'e found ton of infomation exact in that sphere... I believe, that swift i know much more
-better then other languages... but "thanks" god it dies in my country... i'e studied in yandex 
-IOS mobile school, and i think i was good... And even if it doesn't give any reasons to hire me, 
+and i'e found ton of infomation exact in that sphere... I believe, that swift i know much better
+then other languages... but "thanks" god it dies in my country... i'e studied in yandex IOS 
+mobile school, and i think i was good... And even if it doesn't give any reasons to hire me, 
 i'e met one person i had to met, that's why i'm not regret about spent time.
 
 So... who am I? =)
